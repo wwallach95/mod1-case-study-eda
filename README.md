@@ -38,4 +38,16 @@ You are a data scientist tasked with answering some clear questions for a client
 * add images to the images folder
 
 
+# How am I evaluated?
+
+|Criteria | 👍 | 👎 | 🤷 |
+|----|----|----|----|
+|Investigated 6 questions| | | |
+|Completed Slideshow | | | | 
+|Included tricky parts of data in slideshow | | | | 
+|Used statistics to defend conclusions | | | |
+|All completed work is in individual repo | | | |
+|Workbook is neat | | | |
+|(optional)Created Custom README.md | | | |
+
 # Good luck!
