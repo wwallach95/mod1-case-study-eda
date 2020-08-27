@@ -13,9 +13,9 @@ You are a data scientist tasked with answering some clear questions for a client
 
 
 # Deliverables
-* 6 Questions
-    * The first 3 questions will be using the `googleplaystore.csv` file
-    * Questions 4-6 are to be chosen by your team.  
+* 3 Questions
+    * The first 2 questions will be using the `googleplaystore.csv` file
+    * Question 3 are to be chosen by your team.  
 * Each question must have
     * Clear concrete answers
     * A visualization supporting your conclusion
@@ -42,7 +42,7 @@ You are a data scientist tasked with answering some clear questions for a client
 
 |Criteria | 👍 | 👎 | 🤷 |
 |----|----|----|----|
-|Investigated 6 questions| | | |
+|Investigated 3 questions| | | |
 |Completed Slideshow | | | | 
 |Included tricky parts of data in slideshow | | | | 
 |Used statistics to defend conclusions | | | |
